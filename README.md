@@ -2,7 +2,8 @@
 
 
 # UMBC Data Science Graduate Program 
-## Topic: Predicting Outages with Usage and Weather Patterns
+## Topic: Power Outage Prediction - Can Weather Patterns and Customer Energy Usage Predict Outages?
+
 ## Team Members: Adam Goldstein, Amal Khan, Tyler Evans, Chan Jang
 ## Project Advisor: Dr. Bogden
 
