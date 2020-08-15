@@ -1,1 +1,2 @@
-![UMBC Graduate School Summer 2020 Session](https://www.google.com/url?sa=i&url=https%3A%2F%2Fllc.umbc.edu%2Fhome%2Fnews-events%2F%3Fid%3D69853&psig=AOvVaw1viwEkrIhWIogYAm-JEDp_&ust=1597549270955000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOi5ufiknOsCFQAAAAAdAAAAABAI)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
