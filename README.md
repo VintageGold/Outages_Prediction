@@ -1,4 +1,4 @@
-<img src="UMBC_Energy/Images/UMBC_Graduate_School.jpg" width="50"> 
+<img src="UMBC_Energy/Images/UMBC_Graduate_School.jpg" width="150"> 
 
 
 # UMBC Data Science Graduate Program 
