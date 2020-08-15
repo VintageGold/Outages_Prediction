@@ -1,3 +1,6 @@
+<img src="UMBC_Energy/Images/UMBC_Graduate_School.jpeg" width="50"> 
+
+
 # UMBC Data Science Graduate Program 
 ## Topic: Predicting Outages with Usage and Weather Patterns
 ## Team Members: Adam Goldstein, Amal Khan, Tyler Evans, Chan Jang
